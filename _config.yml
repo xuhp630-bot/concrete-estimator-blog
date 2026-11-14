@@ -1,0 +1,10 @@
+title: Concrete Estimator Hub - Guides
+description: Practical guides for concrete cost estimation, calculator tips, and DIY concrete projects
+baseurl: "/concrete-estimator-blog"
+url: "https://xuhp630-bot.github.io"
+theme: minima
+author:
+  name: Dancy
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
